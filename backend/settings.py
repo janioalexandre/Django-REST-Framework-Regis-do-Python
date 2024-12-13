@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'rest_framework',
     'dr_scaffold',
+    'drf_yasg',
     # my apps
     'blog', 
     'product',
